@@ -23,13 +23,10 @@ namespace Benchmark
         static void Bar(in Point value)
         {
 
-
         }
         static void Main(string[] args)
         {
             Point a = new Point();
-
-
 
             Stopwatch sw = Stopwatch.StartNew();
 
